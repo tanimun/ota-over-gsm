@@ -1,1 +1,2 @@
 https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/132
+https://www.tutorialspoint.com/esp32_for_iot/esp32_for_iot_spiffs_storage.htm
